@@ -33,6 +33,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone this repo
 2. type `npm install` in this repository directory
+2. then `npm start`
 
 
 
