@@ -2,7 +2,7 @@
   <h1 align="center">Monster Rolodex</h1>
 
   <p align="center">
-    A simple react project | ![click here to visit!](https://monster-rolodex-peach.vercel.app/)
+    A simple react project | [click here to visit!](https://monster-rolodex-peach.vercel.app/)
     <br />
   </p>
 </div>
