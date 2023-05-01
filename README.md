@@ -1,9 +1,12 @@
 <div align="center">
   <h1 align="center">Monster Rolodex</h1>
 
-  <p align="center">
-    A simple react project | [click here to visit!](https://monster-rolodex-peach.vercel.app/)
+<p align="center">
+    A simple React Project
     <br />
+    <a href="[http://bit.ly/BonusVideoTubesStima2](https://monster-rolodex-peach.vercel.app/)">Visit Web</a>
+    ·
+    <a href="[https://github.com/mrsyaban/Tubes2_BingChilling](https://github.com/mrsyaban/Monster-Rolodex)">    Explore the docs</a>
   </p>
 </div>
 
