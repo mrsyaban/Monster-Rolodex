@@ -4,9 +4,9 @@
 <p align="center">
     A simple React Project
     <br />
-    <a href="[http://bit.ly/BonusVideoTubesStima2](https://monster-rolodex-peach.vercel.app/)">Visit Web</a>
+    <a href="https://monster-rolodex-peach.vercel.app/">Visit Web</a>
     ·
-    <a href="[https://github.com/mrsyaban/Tubes2_BingChilling](https://github.com/mrsyaban/Monster-Rolodex)">    Explore the docs</a>
+    <a href="https://github.com/mrsyaban/Monster-Rolodex">    Explore the docs</a>
   </p>
 </div>
 
