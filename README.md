@@ -33,18 +33,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone this repo
 2. type `npm install` in this repository directory
-3. run `npm start`
 
-
-<!-- CONTACT -->
-## Contact Author
-
-| Nama                  | NIM      | Email |
-| --------------------- | -------- | ----- |
-| Muhammad Hanan   | 13521041 | 13521041@std.stei.itb.ac.id |
-| Muhammad Rizky Sya'ban      | 13521119 | 13521119@std.stei.itb.ac.id |
-
-Project Link: [https://github.com/mrsyaban/Tucil3_13521041_13521119.git](https://github.com/mrsyaban/Tucil3_13521041_13521119.git)
 
 
 <br/>
