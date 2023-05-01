@@ -9,6 +9,6 @@
     border-radius: 30px;
 }
 
-.search-box::hover {
-    background-color: rgb(122, 70, 70);
+.search-box:hover {
+    background-color: #def3f6;
 } 
